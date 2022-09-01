@@ -8,8 +8,8 @@ management:
       exposure:
         # 暴露所有endpoint
         include: '*'
-  security:
-    enabled: false
+  #security:
+    #enabled: false
 
 
 request-coupon-disabled: false
