@@ -12,9 +12,9 @@ management:
     #enabled: false
 
 
-request-coupon-disabled: true
+request-coupon-disabled: false
 
 
-database:
-  password: '{cipher}c4bf40b72d45b26a1b3e66e991f53e8a42050c5d1d63b91f34928c02a389a764'
+#database:
+  #password: '{cipher}c4bf40b72d45b26a1b3e66e991f53e8a42050c5d1d63b91f34928c02a389a764'
   #password2: '{cipher}2c8128c2d1f667bd6f17afcdd5b91c5cf1453f014277d1af1494511aa28af253'
